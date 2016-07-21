@@ -1,4 +1,6 @@
 # test-repo
+##this is secondory heading
+### this is teritiary heading
 first repo for test
 Hi Everybody there!
 
